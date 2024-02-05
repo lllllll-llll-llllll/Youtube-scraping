@@ -1,0 +1,6 @@
+https://www.youtube.com/channel/videos
+"videoId":"(.*?)"
+
+when you scrape the channel's video page, by default it seems videos are listed newest first
+this means the first video id to be matched with this regex is the newest video
+could be useful for checking whether a channel has any new videos posted
