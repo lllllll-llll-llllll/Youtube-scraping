@@ -1,1 +1,7 @@
-Examples of things you can scrape from youtube channels, without the official API or special tools
+Regex matches for scraping youtube
+
+The format for each example is as follows:
+> URL (the url to be scraped)
+> REGEX (the regex pattern)
+>
+> DESCRIPTION AND COMMENTS (describing the results, what it can be used for, etc)
