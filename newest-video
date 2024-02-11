@@ -7,7 +7,3 @@ REGEX
 NOTES
 for a single regex match, this is the most recent video
 for an array of global matches, up to 30 ids are found, each value is the id for a video. array[0] being the most recent video
-
-when you scrape the channel's video page, by default it seems videos are listed newest first
-this means the first video id to be matched with this regex is the newest video
-could be useful for checking whether a channel has any new videos posted
