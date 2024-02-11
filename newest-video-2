@@ -2,3 +2,7 @@ URL
 https://www.youtube.com/feeds/videos.xml?channel_id=<channel_id>
 
 REGEX
+<id>yt:video:(.*?)<\/id>
+
+NOTES
+there are up to 15 video ids in the rss feed for a channel, the first found being the most recent
